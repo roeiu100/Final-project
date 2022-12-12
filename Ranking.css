@@ -85,9 +85,9 @@ ul {
     width: auto;
   }
   .tennisball{
-    width: 220px;
-  height: 220px;
-  background-image: url('https://o.remove.bg/downloads/c7ef492a-8e93-4d8b-93c3-2e9f9f2fa5cd/images-removebg-preview.png');
+    width: 257px;
+  height: 180px;
+  background-image: url('https://o.remove.bg/downloads/8296f442-a52f-4065-97d7-1287516a9f88/images-removebg-preview.png');
   position: relative;
   animation: ball 5s linear 2s infinite alternate;
 
